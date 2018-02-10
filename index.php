@@ -1,3 +1,11 @@
-hola mundo
+<html>
+<head>
+	
+	<title>mi primera pagina en github</title>
 
-texto agregado desde la carpeta 2
+</head>
+
+<body>
+	<p>hello world</p>
+</body>
+</html>
